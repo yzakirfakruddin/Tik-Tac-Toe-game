@@ -39,6 +39,14 @@ header img {
   margin: 3rem auto 1rem auto;
   filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.4));
 }
+header p {
+  background-color: #ffdddd;
+  color: #3f3b00;
+  display: inline-block;
+  padding : 5px 10px;
+  border: solid 3px rgba(185, 61, 61, 1);
+  border-radius: 15px;
+}
 
 h1 {
   font-family: 'Caprasimo', cursive;
